@@ -1,0 +1,6 @@
+@DebugKube.Sample_HostAddress = http://localhost:5249
+
+GET {{DebugKube.Sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
